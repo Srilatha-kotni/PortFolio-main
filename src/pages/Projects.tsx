@@ -15,6 +15,16 @@ const Projects = () => {
       featured: true,
     },
 
+    {
+      title: 'Heal.IO',
+      description: 'The Disease Prediction System is a machine learning–based application that predicts potential diseases from given symptoms. By leveraging trained models, it provides accurate predictions and suggests relevant doctors or specialists, enabling early diagnosis and efficient healthcare guidance.',
+      image: '"C:\Users\kotni\OneDrive\Desktop\Geetha\Pictures\Screenshots\Screenshot 2025-09-06 075705.png"',
+      technologies: ['Scikit-learn', 'Python', 'LLM'],
+      githubUrl: 'https://github.com/Srilatha-kotni/Heal.IO',
+      liveUrl: 'https://heal-5n46.onrender.com/',
+      featured: false,
+    },
+
 
 
     {
