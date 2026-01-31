@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Link } from 'react-router-dom';
 // Temporary placeholder - will be replaced with actual profile image
-const profileImage = '/profile.jpg';
+const profileImage = '/srii.jpg';
 
 const Home = () => {
   return (
