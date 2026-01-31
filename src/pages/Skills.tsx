@@ -38,6 +38,19 @@ const Skills = () => {
     },
 
 
+  {
+      title: 'Data Analytics',
+      icon: Sparkles,
+      gradient: 'bg-gradient-to-br from-green-100 to-cyan-100',
+      iconBg: 'bg-green-200',
+      skills: [
+        'SQL',  'Excel',
+        'PowerBI'
+      ],
+    },
+    
+
+
     {
       title: 'Soft Skills',
       icon: Heart,
