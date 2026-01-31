@@ -30,7 +30,7 @@ const Projects = () => {
     {
       title: 'Weather Dashboard',
       description: 'A responsive weather application with location-based forecasts, interactive maps, and detailed weather analytics.',
-      image: 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop',
+      image: 'https://private-user-images.githubusercontent.com/134635821/519951272-5cba99ab-3d63-4737-b235-e4dfe688ba88.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk4MzM4MzgsIm5iZiI6MTc2OTgzMzUzOCwicGF0aCI6Ii8xMzQ2MzU4MjEvNTE5OTUxMjcyLTVjYmE5OWFiLTNkNjMtNDczNy1iMjM1LWU0ZGZlNjg4YmE4OC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEzMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMzFUMDQyNTM4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGQ0MjMxNWI1NGNmODNkZDA3Y2UxN2E4MjY3YWUyNGI0MGFhZjEwOGJmZGNiZWYwOWY4Y2NhMTFkNjE0YTk5NiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.x8IkCBbPPZXLe1jfZGutjrOOT4D0IiPVRY2xW0cghQQ',
       technologies: ['Vue.js', 'OpenWeather API', 'Tailwind CSS'],
       githubUrl: 'https://github.com/Srilatha-kotni/weather',
       liveUrl: 'https://weather-opal-rho.vercel.app/',
