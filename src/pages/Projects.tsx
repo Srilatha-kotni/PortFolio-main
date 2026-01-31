@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 
 const Projects = () => {
-  const projects = [
+  const projects = [ 
     {
       title: 'Buyerz',
       description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.',
@@ -34,6 +34,17 @@ const Projects = () => {
       technologies: ['Vue.js', 'OpenWeather API', 'Tailwind CSS'],
       githubUrl: 'https://github.com/Srilatha-kotni/weather',
       liveUrl: 'https://weather-opal-rho.vercel.app/',
+      featured: false,
+    },
+
+
+     {
+      title: 'Sales & Profit Dashboard',
+      description: 'Cleaned and managed large structured datasets using SQL and spreadsheets, performing exploratory data analysis to uncover trends and patterns. Built summary reports and visual dashboards to track key metrics, monitor progress, and support data-driven decisions.',
+      image: 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop',
+      technologies: ['Excel', 'SQL'],
+      githubUrl: 'https://github.com/Srilatha-kotni/Data-Analysis-Dashboard,
+      // liveUrl: 'https://weather-opal-rho.vercel.app/',
       featured: false,
     },
 
