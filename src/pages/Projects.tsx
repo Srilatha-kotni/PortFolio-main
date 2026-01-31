@@ -41,7 +41,7 @@ const Projects = () => {
      {
       title: 'Sales & Profit Dashboard',
       description: 'Cleaned and managed large structured datasets using SQL and spreadsheets, performing exploratory data analysis to uncover trends and patterns. Built summary reports and visual dashboards to track key metrics, monitor progress, and support data-driven decisions.',
-      image: 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop',
+      image: '"C:\Users\kotni\Downloads\519951272-5cba99ab-3d63-4737-b235-e4dfe688ba88.jpeg"',
       technologies: ['Excel', 'SQL'],
       githubUrl: 'https://github.com/Srilatha-kotni/Data-Analysis-Dashboard,
       // liveUrl: 'https://weather-opal-rho.vercel.app/',
